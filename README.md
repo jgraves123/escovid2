@@ -1,3 +1,8 @@
+# Purpose
+Virtual escape games on HARD mode - currently (as of June 2026) hosted on our website, http://www.viper.games.
+
+The rest of the ReadMe just contains notes on the React infrastructure for anyone trying to run this locally. Head to the website for more info about this project. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
